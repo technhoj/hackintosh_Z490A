@@ -39,9 +39,10 @@ SystemProductName: iMac20,1
 |Audio| Realtek ALC S1220A |
 
 ## What works:
-Almost all works
+Almost all works (iMessage, Facetime, Airdrop, AppleWatch unlock, Sidecar)
 
 For Sidecar to work, enable iGPU Multi-Monitor in BIOS
+
 Make the changes in BIOS, per yilmazca guide https://github.com/yilmazca/intel-i9-10900K-Asus-prime-Z490A-hackintosh
 
 Use hackintool for USB Port Map
